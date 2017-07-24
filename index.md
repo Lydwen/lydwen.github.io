@@ -10,8 +10,8 @@ If I want to join the video game industry, it's because I believe that it's the 
 
 ## Video Game projects
 
-### Eat Hat AR - Online turn-based strategy game in Augmented Reality
-_Final year project presented at the **"Festival Internation des Jeux de Cannes 2017"**._
+### Eat Hat AR - Online turn-based strategy game in Augmented Reality - 2017 - School Project
+_Final year project presented at the **"Festival International des Jeux de Cannes 2017"**._
 ![Eat Hat AR descriptive photo](/tom_site/eat_hat.png)
 You can find a **video** of the project [here](https://www.youtube.com/watch?v=LyKAzMAzhVQ).
 
@@ -24,7 +24,38 @@ My work :
 - Design and develop the client-server communication abstraction.
 - Design and develop the service discovery in Go.
 
-###
+### ChessProject - Framework to prototype AR board game for Game Designers - 2016 - School Project
+_End of the semester project_
+
+
+![ChessProject descriptive photo](/tom_site/chessproject.png)
+
+
+You can find a **video** of the project [here](https://www.youtube.com/watch?v=Hhxcq4Dgzz8).
+
+The project :
+During one month, I design with three developers and one 3D artist a framework prototype. Its goal is to provide to game designers the tools to create their own AR board game (chess-style) on a cubical board without writing a single line of code. Instead, they will work with Unity 3D with personalized field. As in Lego, you play with bricks : you plug some rule bricks (unity component) somewhere, fulfill the parameters and here we go the game is ready!
+
+My work :
+- Design and development of the data model (cubical representation of the board and movements of the pawns around it).
+- Design and develop the "rule brick" concept : rules that launch events and that are triggered by anothers elements.
+
+### Snowdon Racing - Arcade Car Racing - 2015 - School Project
+_Project for the "Conception de Jeux Vidéo" course at Polytechnique Montréal during my exchange semester_
+
+
+![Snowdon Racing picture](/tom_site/snowdon_racing.png)
+
+
+The project :
+For the Design Video Game coourse at Polytechnique Montréal, I design and develop with 3 other developers an arcade racing game. We use a basic race game skeleton provided by the teachers (car 3d md models, movements, and a Basic AI where provided). We added a radar, a jump (Rocket League-style, ie you can rotate the car midair), items to launch (Mario Kart-style with the green, red and blue tortoises), a nitro, destructible objects (a wall that hide some secret way to go faster), a respawn when you go out of the game, and signalisation on where to turn at the next bend.
+
+My work :
+- Design and develop attack objects in tortoise's mario kart-style (attack that goes right in front of the car and bounce on the wall, attack on the nearest car, attack on the car that is in first place)
+- Design and develop object that can be destruct by using attack objects
+- Help for the Level Design (shortway thanks to the destructible objects, limits of the map)
+- Develop the final ranking and the restart of the game
+
 ```markdown
 Syntax highlighted code block
 
