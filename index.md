@@ -13,7 +13,8 @@ If I want to join the video game industry, it's because I believe that it's the 
 ### Eat Hat AR - Online turn-based strategy game in Augmented Reality
 _Final year project presented at the **"Festival Internation des Jeux de Cannes 2017"**._
 ![Eat Hat AR descriptive photo](/tom_site/eat_hat.png)
-**[Video of the project](https://www.youtube.com/watch?v=LyKAzMAzhVQ)**.
+You can find a **video** of the project [here](https://www.youtube.com/watch?v=LyKAzMAzhVQ).
+
 The project :
 This project took us one semester, in parallel with our other courses. We were four developers (three of us with a minor in Software Architecture, and one in Human-Machine Interaction) and one 3D artist. EatHat AR is a turn based strategy game where the board is real AND virtual. You have a custom wooden board in the hand that you can move to see the different faces and know about the current game state. We add the real board around it thanks to augmented reality. The game is only playable online.
 EatHat AR is a project to prove our competencies as engineer, so we design and develop the system in a way that it can scale with multiple game in parallel, it's easily maintenable by some other developer and it is customizable for a game designer without touching code but only using the Unity3D interface.
