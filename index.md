@@ -15,7 +15,6 @@ _Final year project presented at the **"Festival International des Jeux de Canne
 ![Eat Hat AR descriptive photo](/tom_site/eat_hat.png)
 You can find a **video** of the project [here](https://www.youtube.com/watch?v=LyKAzMAzhVQ).
 
-The project :
 This project took us one semester, in parallel with our other courses. We were four developers (three of us with a minor in Software Architecture, and one in Human-Machine Interaction) and one 3D artist. EatHat AR is a turn based strategy game where the board is real AND virtual. You have a custom wooden board in the hand that you can move to see the different faces and know about the current game state. We add the real board around it thanks to augmented reality. The game is only playable online.
 EatHat AR is a project to prove our competencies as engineer, so we design and develop the system in a way that it can scale with multiple game in parallel, it's easily maintenable by some other developer and it is customizable for a game designer without touching code but only using the Unity3D interface.
 
@@ -33,7 +32,6 @@ _End of the semester project_
 
 You can find a **video** of the project [here](https://www.youtube.com/watch?v=Hhxcq4Dgzz8).
 
-The project :
 During one month, I design with three developers and one 3D artist a framework prototype. Its goal is to provide to game designers the tools to create their own AR board game (chess-style) on a cubical board without writing a single line of code. Instead, they will work with Unity 3D with personalized field. As in Lego, you play with bricks : you plug some rule bricks (unity component) somewhere, fulfill the parameters and here we go the game is ready!
 
 My work :
@@ -47,7 +45,6 @@ _Project for the "Conception de Jeux Vidéo" course at Polytechnique Montréal d
 ![Snowdon Racing picture](/tom_site/snowdon_racing.png)
 
 
-The project :
 For the Design Video Game coourse at Polytechnique Montréal, I design and develop with 3 other developers an arcade racing game. We use a basic race game skeleton provided by the teachers (car 3d md models, movements, and a Basic AI where provided). We added a radar, a jump (Rocket League-style, ie you can rotate the car midair), items to launch (Mario Kart-style with the green, red and blue tortoises), a nitro, destructible objects (a wall that hide some secret way to go faster), a respawn when you go out of the game, and signalisation on where to turn at the next bend.
 
 My work :
@@ -56,30 +53,24 @@ My work :
 - Help for the Level Design (shortway thanks to the destructible objects, limits of the map)
 - Develop the final ranking and the restart of the game
 
-```markdown
-Syntax highlighted code block
+### Rogue Shield - Rogue Like "The best defense is a very good defense" - 2015 - Personal Project
+_Personal project during my exchange semester at Polytechnique Montréal_
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+You can find a **video** of the project [here](https://www.youtube.com/watch?v=5zhBV104Mas).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+With a three developer team, we design a Rogue-Lite where the particularity is that the only way to fight is to use our magical shield that doesn't do any damage. The player need to repulse the different projectiles right into the enemies to kill them, or to repulse them directly and use your environment full of traps to kill them.
+This game is in 2D with a side scrolling (as in Rogue Legacy) : you'll need to travel around the procedurally generated level to reach the final room.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lydwen/lydwen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My work :
+- Develop character movements
+- Develop the shield gameplay (repulse enemies and projectiles from them or from traps)
+- Develop an inventory, enemy looting, and item use.
+- Develop triggers traps (as dart trap that are activated when the players is in front of it)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any question about my projects or if you just want to talk with me, send me an e-mail at dallagnol.tom@gmail.com! This github page only contains the video games I've developed, but I have plenty of others projects I've done during my engineering school, either personal projects or school projects! Do not hesitate to contact me to talk about all of them.
+
+You can reach me on Linkedin too at https://www.linkedin.com/in/dallagnoltom/ .
