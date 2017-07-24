@@ -18,7 +18,7 @@ The board is a 4 tiles sided cube, which is manipulated in real life (a wooden c
 My work :
 - Design and development of the data model (cubical representation of the board and movements of the pawns around it).
 - Design and develop the client-server communication abstraction.
-- Design and develop the load balancer in Go.
+- Design and develop the service discovery in Go.
 ****
 This project took us one semester, in parallel with our other courses. We were four developers (three of us with a minor in Software Architecture, and one in Human-Machine Interaction) and one 3D artist. EatHat AR is a turn based strategy game 
 ```markdown
