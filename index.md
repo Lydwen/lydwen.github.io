@@ -13,6 +13,7 @@ If I want to join the **video game** industry, it's because I believe that it's 
 ### Eat Hat AR - Online turn-based strategy game in Augmented Reality - 2017 - School Project
 _Final year project presented at the **"Festival International des Jeux de Cannes 2017"**._
 
+**#Unity3D #Vuforia #SoftwareArchitecture #AugmentedReality #CardBoard #FabLab**
 ![Eat Hat AR descriptive photo](/tom_site/eat_hat.png)
 
 You can find a **video** of the project [![Youtube icon for eat hat](/tom_site/yt_icon.png)](https://www.youtube.com/watch?v=LyKAzMAzhVQ).
@@ -28,7 +29,7 @@ My work :
 ### ChessProject - Framework to prototype AR board game for Game Designers - 2016 - School Project
 _End of the semester project_
 
-
+**#Unity3D #Vuforia #SoftwareArchitecture #AugmentedReality #GameDesignOriented #Framework**
 ![ChessProject descriptive photo](/tom_site/chessproject.png)
 
 
@@ -43,7 +44,7 @@ My work :
 ### Snowdon Racing - Arcade Car Racing - 2015 - School Project
 _Project for the "Video Game Design" course at Polytechnique Montréal during my exchange semester_
 
-
+**#Unity3D #Arcade #Racing #GameDesignOriented**
 ![Snowdon Racing picture](/tom_site/snowdon_racing.png)
 
 
@@ -58,6 +59,7 @@ My work :
 ### Rogue Shield - Rogue Like "The best defense is a very good defense" - 2015 - Personal Project
 _Personal project during my exchange semester at Polytechnique Montréal_
 
+**#Unity3D #SoftwareArchitecture #RogueLite #Shield**
 
 You can find a **video** of the project [![Youtube icon for eat hat](/tom_site/yt_icon.png)](https://www.youtube.com/watch?v=5zhBV104Mas).
 
