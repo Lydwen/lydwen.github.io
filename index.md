@@ -10,7 +10,7 @@ If I want to join the **video game** industry, it's because I believe that it's 
 
 ## Video Game projects
 
-### Eat Hat AR - Online turn-based strategy game in Augmented Reality - 2017 - School Project
+### 2017 - Eat Hat AR - Online turn-based strategy game in Augmented Reality - School Project
 _Final year project presented at the **"Festival International des Jeux de Cannes 2017"**._
 
 **#Unity3D #Vuforia #SoftwareArchitecture #AugmentedReality #CardBoard #FabLab**
@@ -26,7 +26,7 @@ My work :
 - Design and develop the client-server communication abstraction.
 - Design and develop the service discovery in Go.
 
-### ChessProject - Framework to prototype AR board game for Game Designers - 2016 - School Project
+### 2016 - ChessProject - Framework to prototype AR board game for Game Designers - School Project
 _End of the semester project_
 
 **#Unity3D #Vuforia #SoftwareArchitecture #AugmentedReality #GameDesignOriented #Framework**
@@ -41,7 +41,7 @@ My work :
 - Design and development of the data model (cubical representation of the board and movements of the pawns around it).
 - Design and develop the "rule brick" concept : rules that launch events and that are triggered by anothers elements.
 
-### Snowdon Racing - Arcade Car Racing - 2015 - School Project
+### 2015 - Snowdon Racing - Arcade Car Racing - School Project
 _Project for the "Video Game Design" course at Polytechnique Montréal during my exchange semester_
 
 **#Unity3D #Arcade #Racing #GameDesignOriented**
@@ -56,7 +56,7 @@ My work :
 - Help for the Level Design (shortway thanks to the destructible objects, limits of the map)
 - Develop the final ranking and the restart of the game
 
-### Rogue Shield - Rogue Like "The best defense is a very good defense" - 2015 - Personal Project
+### 2015 - Rogue Shield - Rogue Like "The best defense is a very good defense" - Personal Project
 _Personal project during my exchange semester at Polytechnique Montréal_
 
 **#Unity3D #SoftwareArchitecture #RogueLite #Shield**
