@@ -1,6 +1,6 @@
 ## Who am I?
 
-I'm an **engineer** in **Computer Science** with a minor in **Software Architecture**, recently graduated from Polytech Nice-Sophia (2017 promotion) that lives in France.
+I'm an **engineer** in **Computer Science** specialized in **Software Architecture**, recently graduated from Polytech Nice-Sophia (2017 promotion) that lives in France.
 
 _Video game, software architecture and game design lover_, I'm currently **searching a first job** as a **gameplay developer** or a **tool developer**.
 
@@ -16,9 +16,9 @@ _Final year project presented at the **"Festival International des Jeux de Canne
 **#Unity3D #Vuforia #SoftwareArchitecture #AugmentedReality #CardBoard #FabLab**
 ![Eat Hat AR descriptive photo](/tom_site/eat_hat.png)
 
-You can find a **video** of the project [![Youtube icon for eat hat](/tom_site/yt_icon.png)](https://www.youtube.com/watch?v=LyKAzMAzhVQ).
+You can find a **video** of the project here : [![Youtube icon for eat hat](/tom_site/yt_icon.png)](https://www.youtube.com/watch?v=LyKAzMAzhVQ).
 
-This project took us one semester, in parallel with our other courses. We were four developers (three of us with a minor in Software Architecture, and one in Human-Machine Interaction) and one 3D artist. EatHat AR is a **turn based strategy game** where **the board is real AND virtual**. You have a custom wooden board in the hand that you can move to see the different faces and know about the current game state. We add the real board around it thanks to augmented reality. The game is only playable online.
+This project took us one semester, in parallel with our other courses. We were four developers (three of us specialized in Software Architecture, and one in Human-Computer Interaction) and one 3D artist. EatHat AR is a **turn based strategy game** where **the board is real AND virtual**. You have a custom wooden board in the hand that you can move to see the different faces and know about the current game state. We add the real board around it thanks to augmented reality. The game is only playable online.
 EatHat AR is a **project to prove our competencies as engineer**, so we design and develop the system in a way that it can **scale with multiple game in parallel**, it's **easily maintenable by some other developer** and it is **customizable for a game designer without touching code** but only using the Unity3D interface.
 
 My work :
@@ -33,7 +33,7 @@ _End of the semester project_
 ![ChessProject descriptive photo](/tom_site/chessproject.png)
 
 
-You can find a **video** of the project [![Youtube icon for eat hat](/tom_site/yt_icon.png)](https://www.youtube.com/watch?v=Hhxcq4Dgzz8).
+You can find a **video** of the project here : [![Youtube icon for eat hat](/tom_site/yt_icon.png)](https://www.youtube.com/watch?v=Hhxcq4Dgzz8).
 
 During one month, I design with three developers and one 3D artist a **framework prototype**. Its goal is to **provide to game designers the tools to create their own AR board game (chess-style) on a cubical board without writing a single line of code**. Instead, they will work with Unity 3D with personalized field. As in Lego, you play with bricks : you plug some rule bricks (unity component) somewhere, fulfill the parameters and here we go the game is ready!
 
@@ -61,7 +61,7 @@ _Personal project during my exchange semester at Polytechnique Montréal_
 
 **#Unity3D #SoftwareArchitecture #RogueLite #Shield**
 
-You can find a **video** of the project [![Youtube icon for eat hat](/tom_site/yt_icon.png)](https://www.youtube.com/watch?v=5zhBV104Mas).
+You can find a **video** of the project here : [![Youtube icon for eat hat](/tom_site/yt_icon.png)](https://www.youtube.com/watch?v=5zhBV104Mas).
 
 
 With a three developer team, we design a **Rogue-Lite where the particularity is that the only way to fight is to use our magical shield that doesn't do any damage**. The player need to **repulse the different projectiles** right into the enemies to kill them, or to **repulse them directly and use your environment full of traps to kill them**.
