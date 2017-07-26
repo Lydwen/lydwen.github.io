@@ -8,6 +8,8 @@ I think a good developer is someone **passionate** and **creative**, who has a *
 
 If I want to join the **video game** industry, it's because I believe that it's the **best medium to reach people's heart** and bring them something. It can be joy, tears, personal thoughts or thought on another person, the player involvment is what that let them to live a mindful and unique moment.
 
+You want more info on my background, for example my work experiences and my competencies, give a look at my **[cv here](https://drive.google.com/open?id=0B9pVo-vJQy3CVGQ5OG5PREtXM0U)**. 
+
 ## Video Game projects
 
 ### 2017 - Eat Hat AR - Online turn-based strategy game in Augmented Reality - School Project
@@ -29,7 +31,7 @@ My work :
 ### 2016 - ChessProject - Framework to prototype AR board game for Game Designers - School Project
 _End of the semester project_
 
-**#Unity3D #Vuforia #SoftwareArchitecture #AugmentedReality #GameDesignOriented #Framework**
+**#Unity3D #Vuforia #SoftwareArchitecture #AugmentedReality #Framework**
 ![ChessProject descriptive photo](/tom_site/chessproject.png)
 
 
@@ -75,6 +77,6 @@ My work :
 
 ### Support or Contact
 
-If you have any question about my projects or if you just want to talk with me, send me an e-mail at **[dallagnol.tom@gmail.com](mailto:dallagnol.tom@gmail.com)**! This github page only contains the video games I've developed, but I have plenty of others projects I've done during my engineering school, either personal projects or school projects! Do not hesitate to contact me to talk about all of them.
+If you have any question about my projects or if you just want to talk with me, feel free to send me an e-mail at **[dallagnol.tom@gmail.com](mailto:dallagnol.tom@gmail.com)**! This github page only contains the video games I've developed, but I have plenty of others projects I've done during my engineering school, either personal projects or school projects! Do not hesitate to contact me to talk about all of them.
 
 You can reach me on **Linkedin** too at **[linkedin.com/in/dallagnoltom/](https://www.linkedin.com/in/dallagnoltom/)** .
